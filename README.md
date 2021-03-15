@@ -25,7 +25,7 @@ Lm9awdin-Community is a list of [Lprogrammers Lm9awdine](https://github.com/Lpro
 - [aouahib](https://github.com/aouahib) Abdou Ouahib
 - [aymanesarrar](https://github.com/aymanesarrar) aymanesarrar
 - [drslax](https://github.com/drslax) aelouarg
-- [IZZY]  (https://github.com/IssamElJaouhari) Issam El Jaouhari
+- [IZZY](https://github.com/IssamElJaouhari) Issam El Jaouhari
 - [EndlessBox](https://github.com/EndlessBox) EndlessBox
 - [f0lio](https://github.com/f0lio) Omar Magoury
 - [fdrissi](https://github.com/fdrissi) DRISSI TOUBBALI Fadel
