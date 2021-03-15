@@ -2,7 +2,7 @@
 <img src="https://github.com/yezz123/yezz123/blob/master/img/img.gif">
 </p>
 
-- Lm9awdin-Community is a list of [Lprogrammers Lm9awdine](https://github.com/LprogrammersLm9awdin) members.
+Lm9awdin-Community is a list of [Lprogrammers Lm9awdine](https://github.com/LprogrammersLm9awdin) members.
 
 [![Github All Releases](https://img.shields.io/badge/status-active-brightgreen)]()
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
