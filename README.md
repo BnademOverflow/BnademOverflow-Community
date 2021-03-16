@@ -35,7 +35,6 @@ Lm9awdin-Community is a list of [Lprogrammers Lm9awdine](https://github.com/Lpro
 - [khalidlaaroussi20](https://github.com/khalidlaaroussi20) KhalidLaaroussi
 - [locust49](https://github.com/locust49) intothetide
 - [magmine](https://github.com/magmine) Mohammed Amine Maghous
-- [MbarkErras](https://github.com/MbarkErras) M'bark Erras
 - [M-Agoumi](https://github.com/M-Agoumi) mohamed agoumi
 - [medayz](https://github.com/medayz) Mohamed Ayoub Zahir
 - [MenoIy](https://github.com/MenoIy) Menoly
