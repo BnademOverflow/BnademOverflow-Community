@@ -47,6 +47,7 @@ Lm9awdin-Community is a list of [Lprogrammers Lm9awdine](https://github.com/Lpro
 - [sabiri253](https://github.com/sabiri253) Sab Biri
 - [selibrah](https://github.com/selibrah) Selibra
 - [skimo1337](https://github.com/skimo1337) Katji Afrjal
+- [Stormix](https://github.com/Stormix) Anas Mazouni
 - [tareqbareich](https://github.com/tareqbareich) tareqbareich
 - [XD-OB](https://github.com/XD-OB) obelouch
 - [yahyasemih](https://github.com/yahyasemih) Yahya Ez-zainabi
