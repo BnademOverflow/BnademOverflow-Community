@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/yezz123/yezz123/blob/master/img/img.gif">
+<img src="https://www.redhat.com/cms/managed-files/img-clh-s3e8-hero-v2.gif">
 </p>
 
 Lm9awdin-Community is a list of [Lprogrammers Lm9awdine](https://github.com/LprogrammersLm9awdin) members.
