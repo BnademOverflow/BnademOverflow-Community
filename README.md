@@ -60,7 +60,7 @@
 - [Lelouche01](https://github.com/Lelouche01) Amine Ait Ouazghour
 - [CollinBelmo](http://github.com/CollinBelmo) Collin Belmo
 - [nhakkaou](https://github.com/nhakkaou) Noreddine Hakkaoui
-
+- [Peannut](https://github.com/Peannut) Zakaria Oukaddour
 ## Contributing ⭐ :
 
 Contributions are welcome! ♥! Be one of BnademOverflow Community
