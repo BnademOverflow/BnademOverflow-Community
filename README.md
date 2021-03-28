@@ -42,6 +42,7 @@
 - [mobouzar](https://github.com/mobouzar) Muhammed Bouzargtoun
 - [MouadZiani](https://github.com/mouadziani) Mouad ZIANI
 - [msidqi](https://github.com/msidqi) vmod
+- [MouadBH](https://github.com/MouadBH) Mouad Boulahdoud
 - [nhamidn](https://github.com/nhamidn) Noureddine Hamid
 - [Robright20](https://github.com/Robright20) Robert Bright
 - [sabiri253](https://github.com/sabiri253) Sab Biri
