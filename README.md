@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.redhat.com/cms/managed-files/img-clh-s3e8-hero-v2.gif">
+<img src="https://github.com/BnademOverflow/BnademOverflow-Community/blob/main/img/cover.gif">
 </p>
 
 # List of [BnademOverflow](https://github.com/BnademOverflow) members.
