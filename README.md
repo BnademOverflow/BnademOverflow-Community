@@ -8,7 +8,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ## Social Media 🤯:
-#
+
 <p align="left">
     <a href="https://discord.gg/FBwVqq8fxK">
     <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -17,7 +17,7 @@
 </p>
 
 ## Members <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="30px">:
-#
+
 - [AbdouBouallaga](https://github.com/AbdouBouallaga) AbdouBouallaga
 - [abdzr](https://github.com/abdzr) Abdelilah Zarzor
 - [aitelkob](https://github.com/aitelkob) Yait-el-
