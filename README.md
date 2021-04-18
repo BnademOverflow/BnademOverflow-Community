@@ -2,19 +2,20 @@
 <img src="https://github.com/BnademOverflow/BnademOverflow-Community/blob/main/img/cover.gif">
 </p>
 
-# List of [BnademOverflow](https://github.com/BnademOverflow) members.
+## About Us : 
+
+BnademOverFlow A great community with genius people who love to be beside the computer and understand how its works, we are into a new challenges like creating Twil-Platform where we can write articles, make videos and live streams and make them accessible to the public.
+
+#### [Contributing](https://github.com/BnademOverflow/BnademOverflow-Community/blob/main/CONTRIBUTING.md) ⭐ :
+
+Contributions are welcome! ♥! Be one of BnademOverflow Community.
+
+`Ex : Discord or Facebook`.
+
+Use the pull request and issue systems to contribute.
 
 [![Github All Releases](https://img.shields.io/badge/status-active-brightgreen)]()
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-
-## Social Media 🤯:
-
-<p align="left">
-    <a href="https://discord.gg/FBwVqq8fxK">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
-    <a href="https://www.facebook.com/groups/l9wada">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-</p>
 
 ## Members <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="30px">:
 
@@ -66,10 +67,16 @@
 - [ChibaniMohamed](https://github.com/ChibaniMohamed)XN3UR0N
 - [BariMehdi77](https://github.com/barimehdi77) Bari Mehdi
 - [TRKBKR](https://github.com/TRKBKR) ⵟⴰⵕⵉⴽ ⴱⴰⴽⵉⵕ
-## Contributing ⭐ :
+- [imadatyatalah](https://github.com/imadatyatalah) imad
+## Social Media 🤯:
 
-Contributions are welcome! ♥! Be one of BnademOverflow Community
-
-`Ex : Discord or Facebook`.
-
-Use the pull request and issue systems to contribute.
+<p align="center">
+    <a href="https://discord.gg/FBwVqq8fxK">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://www.facebook.com/groups/l9wada">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+    <a href="https://twitter.com/BnademOverFlow">
+    <img alt="Twitter" src="https://img.shields.io/badge/BnademOverFlow%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+    <a href="https://www.twitch.tv/bnademoverflow">
+    <img alt="Twitch" src="https://img.shields.io/badge/BnademOverFlow%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
+</p>
