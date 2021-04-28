@@ -68,6 +68,7 @@ Use the pull request and issue systems to contribute.
 - [BariMehdi77](https://github.com/barimehdi77) Bari Mehdi
 - [TRKBKR](https://github.com/TRKBKR) ⵟⴰⵕⵉⴽ ⴱⴰⴽⵉⵕ
 - [imadatyatalah](https://github.com/imadatyatalah) imad
+- [Yego](https://github.com/YeGoTaChi) Youssef Lyoussfi
 ## Social Media 🤯:
 
 <p align="center">
