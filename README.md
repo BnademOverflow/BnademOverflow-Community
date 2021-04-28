@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/BnademOverflow/BnademOverflow-Community/blob/main/img/cover.gif">
+<img src="https://github.com/BnademOverflow/BnademOverflow-Community/blob/main/assets/cover.gif">
 </p>
 
 ## About Us : 
