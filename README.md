@@ -70,6 +70,7 @@ Use the pull request and issue systems to contribute.
 - [imadatyatalah](https://github.com/imadatyatalah) imad
 - [Yego](https://github.com/YeGoTaChi) Youssef Lyoussfi
 - [Aymane11](https://github.com/aymane11/) Aymane Boumaaza
+- [s0v1x](https://github.com/s0v1x) Labiad Salah Eddine
 
 ## Social Media 🤯:
 
