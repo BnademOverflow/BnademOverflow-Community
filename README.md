@@ -69,6 +69,7 @@ Use the pull request and issue systems to contribute.
 - [TRKBKR](https://github.com/TRKBKR) ⵟⴰⵕⵉⴽ ⴱⴰⴽⵉⵕ
 - [imadatyatalah](https://github.com/imadatyatalah) imad
 - [Yego](https://github.com/YeGoTaChi) Youssef Lyoussfi
+- [s0v1x](https://github.com/s0v1x) Labiad Salah Eddine
 ## Social Media 🤯:
 
 <p align="center">
