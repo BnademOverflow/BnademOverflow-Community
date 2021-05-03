@@ -71,7 +71,7 @@ Use the pull request and issue systems to contribute.
 - [Yego](https://github.com/YeGoTaChi) Youssef Lyoussfi
 - [Aymane11](https://github.com/aymane11/) Aymane Boumaaza
 - [s0v1x](https://github.com/s0v1x) Labiad Salah Eddine
-- [ydarkscript] (https://github.com/ydarkscript)Younes Askour
+- [ydarkscript](https://github.com/ydarkscript) Younes Askour
 ## Social Media 🤯:
 
 <p align="center">
