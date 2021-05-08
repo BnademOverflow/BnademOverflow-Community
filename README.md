@@ -74,6 +74,8 @@ Use the pull request and issue systems to contribute.
 - [ydarkscript](https://github.com/ydarkscript) Younes Askour
 - [ablil](https://github.com/ablil) Khalil
 - [outama-othmane](https://github.com/outama-othmane) OUTAMA Othmane
+- [RedaElmar](https://github.com/RedaElmar) Reda Elmarhouch
+
 
 ## Social Media 🤯:
 
