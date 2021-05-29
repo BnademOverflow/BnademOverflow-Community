@@ -10,6 +10,9 @@ BnademOverFlow A great community with genius people who love to be beside the co
 
 Contributions are welcome! ♥! Be one of BnademOverflow Community.
 
+And if you don't know to contribute on GitHub check this [detailed blog](https://www.dataschool.io/how-to-contribute-on-github/).
+
+
 `Ex : Discord or Facebook`.
 
 Use the pull request and issue systems to contribute.
@@ -77,10 +80,10 @@ Use the pull request and issue systems to contribute.
 - [RedaElmar](https://github.com/RedaElmar) Reda Elmarhouch
 
 
-## Social Media 🤯:
+## Social Media 🤝🤯:
 
 <p align="center">
-    <a href="https://discord.gg/FBwVqq8fxK">
+    <a href="https://discord.gg/EeBajtf8">
     <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://www.facebook.com/groups/l9wada">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
