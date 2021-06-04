@@ -37,6 +37,11 @@ And if you don't know to contribute on GitHub check this [detailed blog post](ht
     alt="Yasser Tahiri"
 /></a>
 <a
+    href="https://github.com/afaddoul" target="_blank"><img
+    src="https://avatars.githubusercontent.com/u/45492546?v=4" width="100" height="100"
+    alt="AchrafFaddoul"
+/></a>
+<a
     href="https://github.com/AbdouBouallaga" target="_blank"><img
     src="https://avatars.githubusercontent.com/u/57730204?v=4" width="100" height="100"
     alt="AbdouBouallaga"
