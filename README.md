@@ -219,11 +219,6 @@ And if you don't know to contribute on GitHub check this [detailed blog post](ht
     alt=""
 /></a>
 <a
-    href="https://github.com/adibemohamed" target="_blank"><img
-    src="https://avatars.githubusercontent.com/u/52131981?v=4" width="100" height="100"
-    alt=""
-/></a>
-<a
     href="https://github.com/MaroIsLife" target="_blank"><img
     src="https://avatars.githubusercontent.com/u/26790542?v=4" width="100" height="100"
     alt=""
@@ -335,6 +330,11 @@ And if you don't know to contribute on GitHub check this [detailed blog post](ht
     href="https://github.com/f0rkr" target="_blank"><img
     src="https://avatars.githubusercontent.com/u/39636110?v=4" width="100" height="100"
     alt="Mohamed Ashad"
+/></a>
+<a
+    href="https://github.com/adibemohamed" target="_blank"><img
+    src="https://avatars.githubusercontent.com/u/52131981?v=4" width="100" height="100"
+    alt=""
 /></a>
 
 
