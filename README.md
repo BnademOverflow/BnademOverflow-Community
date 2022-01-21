@@ -1,7 +1,7 @@
 <img src="https://github.com/BnademOverflow/BnademOverflow-Community/blob/main/assets/cover.gif">
 </p>
 
-## About Us : 
+## About Us :
 
 BnademOverFlow A great community with genius people who love to be beside the computer and understand how its works, we are into a new challenges like creating Twil-Platform where we can write articles, make videos and live streams and make them accessible to the public.
 
@@ -160,7 +160,7 @@ And if you don't know to contribute on GitHub check this [detailed blog post](ht
     href="https://github.com/msidqi" target="_blank"><img
     src="https://avatars.githubusercontent.com/u/42954251?v=4" width="100" height="100"
     alt=""
-/></a> 
+/></a>
 <a
     href="https://github.com/MouadBH" target="_blank"><img
     src="https://avatars.githubusercontent.com/u/28781942?v=4" width="100" height="100"
@@ -340,6 +340,11 @@ And if you don't know to contribute on GitHub check this [detailed blog post](ht
     href="https://github.com/Ray0Emma" target="_blank"><img
     src="https://avatars.githubusercontent.com/u/70212296?v=4" width="100" height="100"
     alt="Farah"
+/></a>
+<a
+    href="https://github.com/yassirtouab" target="_blank"><img
+    src="https://avatars.githubusercontent.com/u/26269747" width="100" height="100"
+    alt="Yassir Touab"
 /></a>
 
 
