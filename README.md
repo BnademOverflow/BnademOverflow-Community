@@ -346,7 +346,11 @@ And if you don't know to contribute on GitHub check this [detailed blog post](ht
     src="https://avatars.githubusercontent.com/u/26269747" width="100" height="100"
     alt="Yassir Touab"
 /></a>
-
+<a
+    href="https://github.com/mezzat01" target="_blank"><img
+    src="https://avatars.githubusercontent.com/u/86370095?v=4" width="100" height="100"
+    alt="Mohamed Amine Mezzat"
+/></a>
 
 ## Social Media 🤝🤯:
 
